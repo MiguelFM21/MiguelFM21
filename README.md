@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-    Licenciado em Engenharia Informática. Actualmente a frequentar o Mestrado em Engenharia Informática na Universidade do Minho.
+    Licenciado em Engenharia de Telecomunicações e Informática. Atualmente a frequentar o Mestrado em Engenharia Informática na Universidade do Minho.
 
 ## Alguns Projetos Realizados
 - [ML Kaggle Project](https://github.com/MiguelFM21/ML-Kaggle-Project) 
